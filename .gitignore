@@ -1,0 +1,155 @@
+# macOS
+.DS_Store
+._.DS_Store
+**/.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+!frontend/src/lib/
+!frontend/src/lib/**
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+
+# Virtual Environments
+venv/
+venv-ils/
+env/
+ENV/
+env.bak/
+venv.bak/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.pydevproject
+.settings/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Environment variables (never commit real secrets)
+.env
+.env.*
+!.env.example
+!**/.env.example
+
+# Project specific (if you want to ignore test results or generated images)
+# Uncomment if needed:
+# test results/
+# *.png
+# *.pdf
+
+# RAG vector store (Chroma persistence)
+backend/data/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Documentation
+AI_MODEL_IMPLEMENTATION_GUIDE.md
+PROJECT_PLAN.md
+Referred_Research_Papers_List.txt
+
+# --- VRPTW monorepo generated artifacts ---
+# Packaged test-result bundle (manually generated)
+backend/test_results.zip
+
+# Optional large local research PDFs (keep local only)
+Referred_Research_Papers/
+
+# Backend runtime env/cache
+backend/.venv/
+backend/venv/
+backend/venv-ils/
+backend/.pytest_cache/
+backend/.mypy_cache/
+backend/.ruff_cache/
+
+# Frontend build cache/output
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
+
+# Documentation files
+HETZNER_VPS_MIGRATION_GUIDE.md
+SUBDOMAIN_ARNOBMAHMUD_SETUP.md

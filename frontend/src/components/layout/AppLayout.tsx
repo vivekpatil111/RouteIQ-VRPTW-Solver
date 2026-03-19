@@ -1,6 +1,6 @@
 ﻿import { useEffect, useRef } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
-import { Home, Play, GitCompare, Database, BarChart3, Code2, FileText, Truck } from "lucide-react";
+import { Home, Play, GitCompare, Database, BarChart3, FileText, Truck } from "lucide-react";
 import gsap from "gsap";
 import { Solver } from "@/pages/Solver";
 import { Compare } from "@/pages/Compare";

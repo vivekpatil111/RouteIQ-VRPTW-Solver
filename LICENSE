@@ -1,6 +1,4 @@
-MIT License
-
-Copyright (c) 2026 Arnob Mahmud
+Copyright (c) 2026 Vivek N Patil
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,8 +20,13 @@ SOFTWARE.
 
 ---
 
-This is an open-source project. Feel free to use, enhance, and extend this project
-to the next level. Contributions, improvements, and forks are welcome!
+This project was developed as part of the Optimization Techniques course at
+NMIMS Mukesh Patel School of Technology Management & Engineering.
+
+Student  : Vivek N Patil
+Course   : B.Tech Artificial Intelligence & Machine Learning
+Guide    : Dr. Praveen Kumar Loharkar
+Year     : 2025-26
 
 Portfolio: https://vivek-patil-portfolio-kappa.vercel.app/
 GitHub: https://github.com/vivekpatil111/RouteIQ-VRPTW-Solver/edit/main/LICENSE
